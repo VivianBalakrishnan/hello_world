@@ -1,0 +1,8 @@
+argv = ['/Users/vivianbalakrishnan/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': '012D3B06-BE97-4828-8C1D-E7DBBFFB5CCB', 'SSH_AUTH_SOCK': '/tmp/launch-fuEmx9/Listeners', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'LC_CTYPE': 'UTF-8', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'vivianbalakrishnan', 'USER': 'vivianbalakrishnan', 'HOME': '/Users/vivianbalakrishnan', 'PATH': '/Users/vivianbalakrishnan/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin:/Users/vivianbalakrishnan/pebble-dev/PebbleSDK-2.0-BETA4/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin', 'TMPDIR': '/var/folders/yj/97s5b6nn335fp21m8pj5gg100000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-PYeiVi/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', '__CF_USER_TEXT_ENCODING': '0x1F5:0:0', 'PWD': '/Users/vivianbalakrishnan/Downloads/hello_world', '_': '/Users/vivianbalakrishnan/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/waf', '__CHECKFIX1436934': '1'}
+files = ['/Users/vivianbalakrishnan/Downloads/hello_world/wscript']
+hash = 4672844372416070989
+options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/vivianbalakrishnan/Downloads/hello_world/build'
+run_dir = '/Users/vivianbalakrishnan/Downloads/hello_world'
+top_dir = '/Users/vivianbalakrishnan/Downloads/hello_world'
